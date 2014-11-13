@@ -1,0 +1,9 @@
+C:\MyProject\XLFViewer\XLFViewer\bin\Debug\XLFViewer.exe
+C:\MyProject\XLFViewer\XLFViewer\bin\Debug\XLFViewer.pdb
+C:\MyProject\XLFViewer\XLFViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyProject\XLFViewer\XLFViewer\obj\x86\Debug\XLFViewer.Properties.Resources.resources
+C:\MyProject\XLFViewer\XLFViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MyProject\XLFViewer\XLFViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MyProject\XLFViewer\XLFViewer\obj\x86\Debug\XLFViewer.exe
+C:\MyProject\XLFViewer\XLFViewer\obj\x86\Debug\XLFViewer.pdb
+C:\MyProject\XLFViewer\XLFViewer\obj\x86\Debug\XLFViewer.Form_Main.resources

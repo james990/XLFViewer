@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="ar-SA" original="WOL_DownloadShop\Free_Downloads\PersonalizationGallery\ThemePDPs\ThemeDetails_RDas_GardenGlimpses3_HeroItem.xml.meta" tool-id="lba" product-name="WinPub" product-version="WOLXLIFF" build-num="2013-08-01-113540867_2013-08-01-WOL-CP036-Content">
+    <header>
+      <tool tool-id="lba" tool-name="LBA" tool-version="5.8.723.0" tool-company="Microsoft" />
+      <count-group name="MLP auto-translation analysis">
+        <count count-type="repetition">0</count>
+        <count count-type="x-ice-match">0</count>
+        <count count-type="x-100%">0</count>
+        <count count-type="x-95-99%">0</count>
+        <count count-type="x-85-94%">0</count>
+        <count count-type="x-75-84%">0</count>
+        <count count-type="x-50-74%">0</count>
+        <count count-type="x-leveraged-mt">0</count>
+        <count count-type="x-unmatched">5</count>
+        <count count-type="total">5</count>
+      </count-group>
+    </header>
+    <body>
+      <group id="1">
+        <trans-unit id="1" translate="yes" xml:space="preserve">
+          <source>Garden Glimpses 3 - Description asset</source>
+          <target state="new">Garden Glimpses 3 - Description asset</target>
+        </trans-unit>
+	<trans-unit id="2" translate="yes" xml:space="preserve">
+          <source>Garden Glimpkjhgses 3 - Description asset</source>
+          <target state="new">Gardkjhgen Glimpses 3 - Description asset</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
